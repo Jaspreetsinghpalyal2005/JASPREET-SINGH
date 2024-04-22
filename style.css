@@ -1,0 +1,33 @@
+body{ 
+ font-family: arial, sena- serif;
+}
+
+
+header {
+	text-align: center;
+	background-color: green ;
+	padding: 20px;
+	margin-bottom: 80px;
+}
+section{
+	text-align: center;
+	background-color: pink ;
+	padding: 20px;
+	margin-bottom: 80px;
+}
+ h1{ 
+ color : yellow;
+ }
+ h2{ 
+ color : yellow;
+ }
+ h3{ 
+ color : yellow;
+ }
+ h4{
+ color : yellow;
+ }
+ p{
+ color : red;
+ }
+ 
